@@ -1,0 +1,26 @@
+{
+  "name": "css-modules-component-library",
+  "version": "1.0.0",
+  "description": "test to see if I can replicate the next out of order bug",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piratetaco/css-modules-component-library.git"
+  },
+  "keywords": [
+    "css-modules"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piratetaco/css-modules-component-library/issues"
+  },
+  "homepage": "https://github.com/piratetaco/css-modules-component-library#readme",
+  "dependencies": {
+    "clsx": "^2.1.1"
+  },
+  "yalcSig": "2bd25b836a77d6ee0cd77febeafac008"
+}
